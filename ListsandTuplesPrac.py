@@ -5,9 +5,9 @@ heavenlyRes = ["Toji Fushiguro", "Maki Zenin", "Yuki Okkotsu"]
 print(specialGrades)
 print ("THE STRONGEST SORCERER IS " ,specialGrades[0])
 print ("THE STRONGEST OF MODULO IS " ,specialGrades[3])
-print ("THE STRONGEST OF NEXT TO GOJO IS" ,specialGrades[-2])
+print ("THE STRONGEST OF NEXT TO GOJO IS" ,specialGrades[-2]) 
 
-print(heavenlyRes[0:3]) #endindex "3" is not counted
+print(heavenlyRes[0:3]) #endindex "3" is not counted 
 print("THE SHINJUKU SHOWDOWN HAPPENS BETWEEN: " + str(specialGrades[0:2]))
 
 #ASSIGNING ANOTHER VALUE ON LISTS
@@ -101,7 +101,6 @@ print()
 #TUPLES (A READ-ONLY LIST TYPE)
 techJu = ("Red", "Blue", "Purple")
 print (techJu)
-
 
 
 #=======REVIEW 02/08/2026==========
